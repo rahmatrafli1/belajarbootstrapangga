@@ -28,10 +28,12 @@
 .hero-section h1 {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
+  color: #2f281e;
 }
 
 .hero-section p {
   font-family: "Poppins", sans-serif;
+  color: #2f281e;
 }
 
 .hero-section a {
@@ -40,4 +42,5 @@
 
 nav.navbar ul.navbar-nav > li.nav-item > a.nav-link {
   font-family: "Poppins", sans-serif;
+  color: #2f281e;
 }
