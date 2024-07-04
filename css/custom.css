@@ -44,3 +44,43 @@ nav.navbar ul.navbar-nav > li.nav-item > a.nav-link {
   font-family: "Poppins", sans-serif;
   color: #2f281e;
 }
+
+@media only screen and (max-width: 991px) {
+  .btn-primary,
+  .btn-secondary {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .btn-primary,
+  .btn-secondary {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .btn-primary,
+  .btn-secondary {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .btn-primary,
+  .btn-secondary {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .btn-primary,
+  .btn-secondary {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
