@@ -7,8 +7,22 @@
 }
 
 .btn-primary:hover {
-  background: #f1a532;
+  background: #b57515;
   border: 0;
+}
+
+.btn-secondary {
+  background: none;
+  border: 1px solid #7b7061;
+  padding: 15px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #7b7061;
+}
+
+.btn-secondary:hover {
+  background: #7b7061;
+  border: 1px solid #7b7061;
 }
 
 .hero-section h1 {
@@ -21,5 +35,9 @@
 }
 
 .hero-section a {
+  font-family: "Poppins", sans-serif;
+}
+
+nav.navbar ul.navbar-nav > li.nav-item > a.nav-link {
   font-family: "Poppins", sans-serif;
 }
